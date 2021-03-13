@@ -1,0 +1,140 @@
+support=25% confidence=60%
+
+Algorithm is running... (07:38:27 PM)  
+=============  APRIORI - STATS =============
+ Candidates count : 4184
+ The algorithm stopped at size 6
+ Frequent itemsets count : 351
+ Maximum memory usage : 72.92977905273438 mb
+ Total time ~ 543 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 1468
+ Total time ~ 24 ms
+===================================================
+
+Algorithm is running... (07:39:39 PM)  
+=============  FP-GROWTH 2.42 - STATS =============
+ Transactions count from database : 730
+ Max memory usage: 358.2917785644531 mb 
+ Frequent itemsets count : 143792
+ Total time ~ 1156 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 3678532
+ Total time ~ 7054 ms
+===================================================
+
+
+======================================================================================================
+======================================================================================================
+======================================================================================================
+
+support=60% confidence=60%
+
+Algorithm is running... (07:42:56 PM)  
+=============  APRIORI - STATS =============
+ Candidates count : 255
+ The algorithm stopped at size 4
+ Frequent itemsets count : 28
+ Maximum memory usage : 233.89356231689453 mb
+ Total time ~ 16 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 16
+ Total time ~ 1 ms
+===================================================
+
+
+Algorithm is running... (07:41:06 PM)  
+=============  FP-GROWTH 2.42 - STATS =============
+ Transactions count from database : 730
+ Max memory usage: 223.76219177246094 mb 
+ Frequent itemsets count : 388
+ Total time ~ 41 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 3140
+ Total time ~ 5 ms
+===================================================
+
+
+
+
+======================================================================================================
+======================================================================================================
+======================================================================================================
+
+support=50% confidence=50%
+
+Algorithm is running... (07:58:17 PM)  
+Converting ARFF to SPMF format.
+Conversion completed.
+=============  APRIORI - STATS =============
+ Candidates count : 779
+ The algorithm stopped at size 5
+ Frequent itemsets count : 259
+ Maximum memory usage : 757.8450469970703 mb
+ Total time ~ 55 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 1156
+ Total time ~ 2 ms
+===================================================
+Post-processing to show result in terms of string values.
+Post-processing completed.
+
+
+Algorithm is running... (07:57:22 PM)  
+Converting ARFF to SPMF format.
+Conversion completed.
+=============  FP-GROWTH 2.42 - STATS =============
+ Transactions count from database : 730
+ Max memory usage: 729.8430938720703 mb 
+ Frequent itemsets count : 259
+ Total time ~ 29 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 1156
+ Total time ~ 2 ms
+===================================================
+Post-processing to show result in terms of string values.
+Post-processing completed.
+
+
+======================================================================================================
+======================================================================================================
+======================================================================================================
+
+Algorithm is running... (08:10:21 PM)  
+Converting ARFF to SPMF format.
+Conversion completed.
+=============  APRIORI - STATS =============
+ Candidates count : 37
+ The algorithm stopped at size 3
+ Frequent itemsets count : 12
+ Maximum memory usage : 783.8450469970703 mb
+ Total time ~ 8 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 8
+ Total time ~ 0 ms
+===================================================
+Post-processing to show result in terms of string values.
+Post-processing completed.
+
+Algorithm is running... (08:11:03 PM)  
+Converting ARFF to SPMF format.
+Conversion completed.
+=============  FP-GROWTH 2.42 - STATS =============
+ Transactions count from database : 730
+ Max memory usage: 815.8450469970703 mb 
+ Frequent itemsets count : 12
+ Total time ~ 10 ms
+===================================================
+=============  ASSOCIATION RULE GENERATION v2.19- STATS =============
+ Number of association rules generated : 8
+ Total time ~ 0 ms
+===================================================
+Post-processing to show result in terms of string values.
+Post-processing completed.
